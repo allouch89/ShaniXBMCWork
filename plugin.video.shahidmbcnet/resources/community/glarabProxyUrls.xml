@@ -1,0 +1,5300 @@
+<streaminginfos>
+
+
+
+
+<streaminginfo>
+	<cname>4Shbab</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=4Shbab_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>4Shbab</cname>
+	<item>
+		<title>LR</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=4Shbab_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>7Stars</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=7Stars_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>7Stars</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=7Stars_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>7Stars</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=7Stars_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>7Stars</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=7Stars_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>AAAMusic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AAAMusic_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>AAAMusic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AAAMusic_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>ABN</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ABN_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ABN</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ABN_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ABN</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ABN_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ABN</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ABN_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Abu Dhabi</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADAlOula_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADAlOula_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADAlOula_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Aden</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aden_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aden</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aden_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aden</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aden_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aden</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aden_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADSport_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADSport_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADSport_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ADSport_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Aghanina</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghanina_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aghanina</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghanina_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aghanina</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghanina_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aghanina</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghanina_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Aghapy</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghapy_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aghapy</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghapy_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aghapy</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Aghapy_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Ajman</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ajman_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajman</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ajman_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajman</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ajman_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajman</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ajman_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Ajyal</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AjyalTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajyal</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AjyalTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajyal</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AjyalTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajyal</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AjyalTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Adala</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAdala_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Adala</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAdala_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Adala</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAdala_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Adala</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAdala_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Ahly Sport TV</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhlyTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahly Sport TV</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhlyTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahly Sport TV</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhlyTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Libya Ahrar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhrar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya Ahrar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhrar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya Ahrar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhrar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya Ahrar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAhrar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Amaken Drama</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAmakenDrama_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Amaken Drama</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAmakenDrama_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Amaken Drama</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAmakenDrama_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Anwar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAnwar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Anwar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAnwar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Anwar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAnwar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Anwar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAnwar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Aoula Maroc</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAoulaEurope_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Aoula Maroc</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAoulaEurope_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Aoula Maroc</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAoulaEurope_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Aoula Maroc</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlAoulaEurope_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Babeleyia</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBabeleyia_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Babeleyia</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBabeleyia_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Babeleyia</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBabeleyia_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Babeleyia</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBabeleyia_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Baghdadia</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBaghdadia_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Baghdadia</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBaghdadia_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Baghdadia</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBaghdadia_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Baghdadia</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlBaghdadia_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Kass Tv</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlDawriAlKassSport_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Kass Tv</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlDawriAlKassSport_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Kass Tv</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlDawriAlKassSport_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Kass Tv</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlDawriAlKassSport_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Diyar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AldiyarSat_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Diyar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AldiyarSat_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Diyar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AldiyarSat_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Diyar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AldiyarSat_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Ikhbaria</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEkhbariya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ikhbaria</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEkhbariya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ikhbaria</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEkhbariya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ikhbaria</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEkhbariya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Eman</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEman_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Eman</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEman_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Eman</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEman_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Eman</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEman_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Eqtisadiyah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEqtisadiyah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Eqtisadiyah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEqtisadiyah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Eqtisadiyah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEqtisadiyah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Eqtisadiyah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlEqtisadiyah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Fayhaa</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlFayhaa_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Fayhaa</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlFayhaa_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Fayhaa</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlFayhaa_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Fayhaa</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlFayhaa_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlForat_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlForat_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlForat_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlForat_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Haqeeqa</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHaqeeqa_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Haqeeqa</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHaqeeqa_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Haqeeqa</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHaqeeqa_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Hiwar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHiwar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hiwar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHiwar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hiwar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHiwar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hiwar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlHiwar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Hurra Iraq</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlhurraIraq_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hurra Iraq</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlhurraIraq_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hurra Iraq</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlhurraIraq_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hurra Iraq</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlhurraIraq_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Iraqia Tarbawiyah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqAlTarbawiyah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia Tarbawiyah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqAlTarbawiyah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia Tarbawiyah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqAlTarbawiyah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Iraqia Documentary</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqiaDocumentary_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia Documentary</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqiaDocumentary_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Iraqia 2</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqia2_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia 2</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqia2_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia 2</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqia2_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Iraqia</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqiya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqiya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqiya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Iraqia</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlIraqiya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Jadeed</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJadeed_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jadeed</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJadeed_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jadeed</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJadeed_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Jazeera</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeera_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jazeera</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeera_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jazeera</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeera_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jazeera</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeera_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Jazeera En</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeeraEnglish_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jazeera En</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeeraEnglish_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jazeera En</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeeraEnglish_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Jazeera En</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlJazeeraEnglish_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Karama Christian</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKarma_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Karama Christian</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKarma_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Karama Christian</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKarma_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Karama Christian</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKarma_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Kout</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKout_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Kout</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKout_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Kout</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKout_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Kout</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlKout_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Maghribia</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMaghribia_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Maghribia</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMaghribia_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Maghribia</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMaghribia_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Maghribia</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMaghribia_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Majd</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlmajdSpace_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Majd</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlmajdSpace_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Majd</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlmajdSpace_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Majd</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlmajdSpace_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Malakot</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMalakot_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Malakot</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMalakot_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Malakot</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMalakot_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Malakot</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMalakot_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Manar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlManar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Manar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlManar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Manar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlManar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Manar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlManar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Mas</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMas_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Mas</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMas_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Mas</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMas_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Masar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Masar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Masar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Masar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Masriyah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasriyah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Masriyah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasriyah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Masriyah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasriyah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Masriyah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMasriyah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Moustakilla</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMustakila_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Moustakilla</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMustakila_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Moustakilla</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMustakila_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Moustakilla</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlMustakila_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Ordonia</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlOrdoni_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ordonia</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlOrdoni_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ordonia</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlOrdoni_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ordonia</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlOrdoni_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Qudis</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alquds_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Qudis</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alquds_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Qudis</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alquds_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Qudis</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alquds_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Coran</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlQuran_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Coran</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlQuran_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Coran</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlQuran_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Coran</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlQuran_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Rafidain</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRafidain_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Rafidain</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRafidain_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Rafidain</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRafidain_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Rafidain</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRafidain_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Rasheed</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRasheed_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Rasheed</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRasheed_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Rasheed</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRasheed_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Resalah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlResala_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Resalah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlResala_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Resalah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlResala_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Resalah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlResala_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Saudi Sport 1</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRiyadiah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Saudi Sport 1</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRiyadiah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Saudi Sport 1</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRiyadiah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Saudi Sport 1</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlRiyadiah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Sabah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSabah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sabah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSabah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sabah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSabah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sabah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSabah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Sahraa</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSahraa_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sahraa</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSahraa_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sahraa</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSahraa_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sahraa</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSahraa_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Sharqiya</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSharqiya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSharqiya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSharqiya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlsharqiyaNews_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlsharqiyaNews_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlsharqiyaNews_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlsharqiyaNews_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Sumaria</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alsumaria_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sumaria</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alsumaria_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sumaria</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alsumaria_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sumaria</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alsumaria_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Asunnah TV</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSunnah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Asunnah TV</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSunnah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Asunnah TV</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSunnah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Asunnah TV</cname>
+	<item>
+		<title>LR</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlSunnah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Thakafiyah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThakafiyah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Thakafiyah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThakafiyah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Thakafiyah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThakafiyah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Thakafiyah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThakafiyah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Thania</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThanya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Thania</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThanya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Thania</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThanya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Thania</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlThanya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Watan</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alwatan_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Watan</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alwatan_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Watan</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alwatan_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Watan</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Alwatan_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Watan Plus</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlwatanPlus_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Watan Plus</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlwatanPlus_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Watan Plus</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlwatanPlus_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Watan Plus</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlwatanPlus_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Aqsa</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AqsaSatCh_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Aqsa</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AqsaSatCh_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Aqsa</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AqsaSatCh_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Arabica</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ArabicaMusic_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Arabica</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ArabicaMusic_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Arabica</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ArabicaMusic_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Arrabia</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arrabiaa_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Arrabia</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arrabiaa_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Arrabia</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arrabiaa_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Arrabia</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arrabiaa_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Riadia Sport</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arryadia_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Riadia Sport</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arryadia_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Riadia Sport</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arryadia_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Riadia Sport</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Arryadia_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Assadissa</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Assadissa_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Assadissa</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Assadissa_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Assadissa</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Assadissa_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Assadissa</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Assadissa_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Baghdad</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Baghdad_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Baghdad</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Baghdad_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Baghdad</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Baghdad_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Baghdad</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Baghdad_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Bahrain</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Bahrain_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bahrain</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Bahrain_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bahrain</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Bahrain_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bahrain</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Bahrain_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Bahrain Sports</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BahrainSport_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bahrain Sports</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BahrainSport_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bahrain Sports</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BahrainSport_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bahrain Sports</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BahrainSport_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BBCArabic_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BBCArabic_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BBCArabic_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BBCArabic_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>BeIN</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=beINSports_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BeIN</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=beINSports_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BeIN</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=beINSports_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Beladi</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Beladi_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Beladi</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Beladi_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Beladi</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Beladi_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Beladi</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Beladi_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Blue Nile</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BlueNile_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Blue Nile</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BlueNile_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Blue Nile</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BlueNile_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Blue Nile</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=BlueNile_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Cairo Cinema</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CairoCinema_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Cairo Cinema</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CairoCinema_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Cairo Cinema</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CairoCinema_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Geria</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CanalAlgerie_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Geria</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CanalAlgerie_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Geria</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CanalAlgerie_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Geria</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CanalAlgerie_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>CCTV Arabic</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CCTVArabia_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CCTV Arabic</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CCTVArabia_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CCTV Arabic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CCTVArabia_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CCTV Arabic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CCTVArabia_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Coptic_Christian</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CTVEgypt_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Coptic_Christian</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CTVEgypt_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Coptic_Christian</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CTVEgypt_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Coptic_Christian</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=CTVEgypt_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>DM</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DM_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DM</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DM_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DM</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DM_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DM</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DM_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Dream 1</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Dream1_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dream 1</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Dream1_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dream 1</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Dream1_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DubaiEurope_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DubaiEurope_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DubaiEurope_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Dubai Sport 3</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DubaiSports_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport 3</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DubaiSports_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport 3</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DubaiSports_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>DW Arabic</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DWTVArabia_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DW Arabic</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DWTVArabia_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DW Arabic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DWTVArabia_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DW Arabic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=DWTVArabia_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ElMehwar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ElMehwar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ElMehwar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ElMehwar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Fatafeat</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Fatafeat_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Fatafeat</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Fatafeat_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Fatafeat</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Fatafeat_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Fatafeat</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Fatafeat_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>France24 Arabic</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=France24Arabic_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France24 Arabic</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=France24Arabic_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France24 Arabic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=France24Arabic_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France24 Arabic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=France24Arabic_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Funoon</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Funoon_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Funoon</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Funoon_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Funoon</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Funoon_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Funoon</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Funoon_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>GearOne</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=GearOne_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>GearOne</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=GearOne_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>GearOne</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=GearOne_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>GearOne</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=GearOne_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Goan</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=GoanTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Goan</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=GoanTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Hanibal</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Hannibal_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Hanibal</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Hannibal_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Hanibal</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Hannibal_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Hanibal</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Hannibal_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>HodHod</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=HodHod_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HodHod</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=HodHod_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HodHod</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=HodHod_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HodHod</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=HodHod_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Huda</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Huda_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Huda</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Huda_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Huda</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Huda_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Huda</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Huda_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>IFilm Arabic</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=iFilm_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>IFilm Arabic</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=iFilm_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>IFilm Arabic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=iFilm_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>IFilm Arabic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=iFilm_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Iqra</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Iqraa_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Iqra</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Iqraa_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Iqra</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Iqraa_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Ishtar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ishtar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ishtar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ishtar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ishtar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ishtar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ishtar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Ishtar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Karameesh</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Karameesh_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Karameesh</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Karameesh_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Karameesh</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Karameesh_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>KSA 2</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KSA2_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 2</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KSA2_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 2</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KSA2_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 2</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KSA2_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>KTV2</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV2Kuwait_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV2</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV2Kuwait_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV2</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV2Kuwait_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>KTV Sport Plus</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV3Plus_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV Sport Plus</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV3Plus_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV Sport Plus</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV3Plus_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV Sport Plus</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KTV3Plus_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Kuwait</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KuwaitSpace_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kuwait</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KuwaitSpace_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kuwait</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KuwaitSpace_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kuwait</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=KuwaitSpace_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Libya 2</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Libya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya 2</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Libya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya 2</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Libya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya 2</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Libya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Libya AlWataniya</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LibyaAlWataniya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya AlWataniya</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LibyaAlWataniya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya AlWataniya</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LibyaAlWataniya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Libya Sport 1</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LibyaSportChannel1_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya Sport 1</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LibyaSportChannel1_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya Sport 1</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LibyaSportChannel1_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>LLBN</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LLBN_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>LLBN</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LLBN_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>LLBN</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LLBN_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>LLBN</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=LLBN_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>2M</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=M2Morocco_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>2M</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=M2Morocco_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>2M</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=M2Morocco_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>2M</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=M2Morocco_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Mara7</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Mara7_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mara7</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Mara7_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mara7</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Mara7_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mara7</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Mara7_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Massaya</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Massaya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Massaya</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Massaya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Massaya</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Massaya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Massaya</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Massaya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Mauritanie</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MauritaniaTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mauritanie</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MauritaniaTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mauritanie</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MauritaniaTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mauritanie</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MauritaniaTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Mea</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MeaTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mea</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MeaTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mea</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MeaTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mea</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MeaTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Medi 1 Sat</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Medi1_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Medi 1 Sat</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Medi1_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Medi 1 Sat</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Medi1_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Medi 1 Sat</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Medi1_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Miracle</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Miracle_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Miracle</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Miracle_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Miracle</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Miracle_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Miracle</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Miracle_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>MTV</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MTVLebanon_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MTV</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MTVLebanon_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MTV</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MTVLebanon_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Music+</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MusicPlus_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Music+</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MusicPlus_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Music+</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MusicPlus_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Music+</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=MusicPlus_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nart</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nart_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nart</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nart_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nart</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nart_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nart</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nart_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>NBN</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NBNLebanon_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>NBN</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NBNLebanon_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>NBN</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NBNLebanon_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>NBN</cname>
+	<item>
+		<title>LR</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NBNLebanon_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Neelain Sport</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NeelainSport_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Neelain Sport</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NeelainSport_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Neelain Sport</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NeelainSport_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Neelain Sport</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NeelainSport_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nessma</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nessma_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nessma</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nessma_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nessma</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nessma_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nessma</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nessma_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nile Cinema</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileCinema_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Cinema</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileCinema_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Cinema</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileCinema_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Cinema</cname>
+	<item>
+		<title>LR</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileCinema_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nile Comedy</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileComedy_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Comedy</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileComedy_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Comedy</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileComedy_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Comedy</cname>
+	<item>
+		<title>LR</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileComedy_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nile Drama</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileDrama_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Drama</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileDrama_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Drama</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileDrama_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nile TV</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileInt_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile TV</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileInt_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile TV</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileInt_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nile Sport</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileSport_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Sport</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileSport_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Sport</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileSport_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Sport</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NileSport_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nojoom1</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nojoom1_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nojoom1</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nojoom1_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nojoom1</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nojoom1_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nojoom1</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nojoom1_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Noor Dubai</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NoorDubai_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noor Dubai</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NoorDubai_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noor Dubai</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NoorDubai_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noor Dubai</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NoorDubai_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Noursat Al Shabab</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourAlShabab_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noursat Al Shabab</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourAlShabab_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noursat Al Shabab</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourAlShabab_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noursat Al Shabab</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourAlShabab_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Syria Nour</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourElSham_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Nour</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourElSham_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Nour</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourElSham_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Nour</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=NourElSham_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Nourmina</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nourmina_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nourmina</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nourmina_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nourmina</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nourmina_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nourmina</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Nourmina_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Noursat</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Noursat_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noursat</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Noursat_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Noursat</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Noursat_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Oman</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Oman_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oman</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Oman_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oman</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Oman_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oman</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Oman_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Om Durman</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=OmDurman_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Om Durman</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=OmDurman_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>On TV</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ONTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>On TV</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ONTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>On TV</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ONTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Oyoun Jeddah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=OyounJeddah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oyoun Jeddah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=OyounJeddah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oyoun Jeddah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=OyounJeddah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oyoun Jeddah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=OyounJeddah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Palestine AlYawm</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineAlYawm_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine AlYawm</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineAlYawm_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine AlYawm</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineAlYawm_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine AlYawm</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineAlYawm_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Palestine Live</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineLive_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine Live</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineLive_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine Live</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=PalestineLive_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Palestine</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Palestinian_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Palestinian_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Palestinian_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Palestine</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Palestinian_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Qatar</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Qatar_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Qatar</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Qatar_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Qatar</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Qatar_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Qatar</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Qatar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Rotana Music</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RotanaMusic_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana Music</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RotanaMusic_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana Music</cname>
+	<item>
+		<title>Low</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RotanaMusic_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Roya</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Roya_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Roya</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Roya_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Roya</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Roya_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Roya</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Roya_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RTD_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RTD_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RTD_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RTD_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Russia Alyaum</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RussiyaAlYaum_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Russia Alyaum</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RussiyaAlYaum_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Russia Alyaum</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RussiyaAlYaum_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Russia Alyaum</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=RussiyaAlYaum_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sama Dubai</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaDubai_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sama Dubai</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaDubai_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sama Dubai</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaDubai_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sama Dubai</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaDubai_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SamaTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sat7 Kid</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sat7Kid_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sat7 Kid</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sat7Kid_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sat7 Kid</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sat7Kid_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sat7 Kid</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sat7Kid_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>KSA 1</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SaudiArabia1_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 1</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SaudiArabia1_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 1</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SaudiArabia1_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 1</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SaudiArabia1_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Scope</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ScopeTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Scope</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ScopeTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Scope</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ScopeTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Scope</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ScopeTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Semsem_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Semsem_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Semsem_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Semsem_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sharjah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SharjahTV_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sharjah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SharjahTV_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sharjah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SharjahTV_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sharjah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SharjahTV_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sheba</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sheba_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sheba</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sheba_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sheba</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sheba_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sheba</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sheba_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sudan TV</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sudan_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sudan TV</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sudan_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sudan TV</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sudan_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sudan TV</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Sudan_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Syria Drama</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaDrama_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Drama</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaDrama_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Drama</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaDrama_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Syria Sedu</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyrianEducation_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Sedu</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyrianEducation_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Sedu</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyrianEducation_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria Sedu</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyrianEducation_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Syria</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaSat_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaSat_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaSat_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Syria</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=SyriaSat_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Taha</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Taha_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Taha</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Taha_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Taha</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Taha_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Taha</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Taha_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Tahrir</cname>
+	<item>
+		<title>HD</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tahrir_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tahrir</cname>
+	<item>
+		<title>Med</title>
+		<type>Premium</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tahrir_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Tamazigh Algeria</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tamazight_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tamazigh Algeria</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tamazight_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tamazigh Algeria</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tamazight_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tamazigh Algeria</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tamazight_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Tayba</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tayba_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tayba</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tayba_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tayba</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tayba_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tayba</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tayba_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Tele Liban</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TeleLiban_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tele Liban</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TeleLiban_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tele Liban</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TeleLiban_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tele Liban</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TeleLiban_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Geria 3</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Thalitha_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Geria 3</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Thalitha_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Geria 3</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Thalitha_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Geria 3</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Thalitha_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Toyor Al Janah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ToyorAlJanah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Toyor Al Janah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ToyorAlJanah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Toyor Al Janah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ToyorAlJanah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Toyor Al Janah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ToyorAlJanah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>TRT Arabic</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TRTArabic_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TRT Arabic</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TRTArabic_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TRT Arabic</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TRTArabic_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TRT Arabic</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=TRTArabic_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Tunisia National 1</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tunisie7_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia National 1</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tunisie7_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia National 1</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tunisie7_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia National 1</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Tunisie7_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Wanasah</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Wanasah_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Wanasah</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Wanasah_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Wanasah</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Wanasah_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Wanasah</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Wanasah_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Yemen</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Yemen_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Yemen</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Yemen_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Yemen</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Yemen_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Yemen</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=Yemen_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Zweina Bladna</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ZweinaBaladna_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Zweina Bladna</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ZweinaBaladna_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Zweina Bladna</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ZweinaBaladna_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Zweina Bladna</cname>
+	<item>
+		<title>LR</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=ZweinaBaladna_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Taghier</cname>
+	<item>
+		<title>HD</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlTaghier_HD&amp;server=$GL-IPHD$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Taghier</cname>
+	<item>
+		<title>Med</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlTaghier_Med&amp;server=$GL-IPMED$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Taghier</cname>
+	<item>
+		<title>Low</title>
+		<type>Limited</type>
+		<link>http://127.0.0.1:4500/channel.flv?channel=AlTaghier_Low&amp;server=$GL-IPLOW$&amp;port=2077&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+
+
+
+</streaminginfos>
